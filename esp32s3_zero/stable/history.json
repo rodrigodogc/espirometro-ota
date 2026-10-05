@@ -1,0 +1,12 @@
+[
+  {
+    "board": "esp32s3_zero",
+    "channel": "stable",
+    "version": "1.0.0",
+    "url": "espirometro-esp32s3_zero-1.0.0.ota",
+    "size": 1357248,
+    "sha256": "367bda590cdd8f18414744634e2cc13f164b6167cf1fb52a0cf0312d30e771c9",
+    "notes": "Primeira versão com OTA",
+    "released_at": "2026-10-05T23:45:05Z"
+  }
+]
